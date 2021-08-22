@@ -29,7 +29,7 @@
 
 <br>
 <h1 align="center">Some Stats</h1>
-<div style="display:flex; flex-direction:row">
+<div align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=jugeshraghav&" alt="jugeshraghav" width="400"/>
 <img src="https://github-readme-stats.vercel.app/api?username=jugeshraghav&show_icons=true&locale=en" alt="jugeshraghav"  width="400"/>
 </div>
