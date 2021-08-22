@@ -28,10 +28,11 @@
 </p>
 
 <br>
+<hr>
 
 <div>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jugeshraghav&show_icons=true&locale=en&layout=compact" alt="jugeshraghav" /></p>
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=jugeshraghav&show_icons=true&locale=en" alt="jugeshraghav" /></p>
 </div>
 
-<p align="center><imgsrc="https://github-readme-streak-stats.herokuapp.com/?user=jugeshraghav&" alt="jugeshraghav" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=jugeshraghav&" alt="jugeshraghav" /></p>
