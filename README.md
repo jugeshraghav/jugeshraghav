@@ -30,8 +30,8 @@
 <br>
 <h1 align="center">Some Stats</h1>
 <div style="display:flex; flex-direction:row">
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=jugeshraghav&show_icons=true&locale=en&layout=compact" alt="jugeshraghav" /></p>
-<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=jugeshraghav&show_icons=true&locale=en" alt="jugeshraghav" /></p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=jugeshraghav&show_icons=true&locale=en&layout=compact" alt="jugeshraghav" />
+<img src="https://github-readme-stats.vercel.app/api?username=jugeshraghav&show_icons=true&locale=en" alt="jugeshraghav" />
 </div>
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=jugeshraghav&" alt="jugeshraghav" /></p>
