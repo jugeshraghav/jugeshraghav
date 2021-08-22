@@ -1,5 +1,6 @@
+![banner](banner.jpg)
 <h1 align="center">Hi 👋, I'm Jugesh Raghav</h1>
-![banner](Pink and Peach Technology LinkedIn Banner.jpg)
+
 <h3 align="center">A passionate developer and a keen learner from India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jugeshraghav&label=Profile%20views&color=0e75b6&style=flat" alt="jugeshraghav" /> </p>
