@@ -1,7 +1,11 @@
 ![banner](banner.jpg)
 <h1 align="center">Hi 👋, I'm Jugesh Raghav</h1>
 
-<h3 align="center">A passionate developer and a keen learner from India.</h3>
+<h3 align="center">Hello, friend(dost)🖐, Feel free to connect with me 😁 we will create the magic from the usual things present out there❤
+I am Jugesh Raghav soon to be a Computer Science Graduate👩‍🎓. I love building things that's why I opted for Web Development. And currently, I am sharpening my skills in web development and also getting my hands dirty on Machine Learning.
+One more important thing is I love to participate in open source programs.
+Not formal but 😃 I wanna tell you that I am a "passionate 🐶 lover" and a "sports lover".
+I know we kind of have similar likes and dislikes, even if we don't have the same likes and dislikes let's get connected and help each other in getting better.😎</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jugeshraghav&label=Profile%20views&color=0e75b6&style=flat" alt="jugeshraghav" /> </p>
 
